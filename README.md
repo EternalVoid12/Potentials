@@ -5,7 +5,8 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/repository-name.git
+git clone [https://github.com/your-username/repository-name.git](https://github.com/EternalVoid12/Potentials.git)
+
 ```
 2. Navigate into the project directory:
 ```
