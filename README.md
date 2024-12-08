@@ -1,7 +1,11 @@
 # Potentials
 Thermodynamic Calculator with PyQt. Delta G, Delta E, and Reaction Balancing. This project uses PyQt to create a user-friendly graphical user interface for calculating two thermodynamic quantities in reactions: Gibbs free energy change and potential change in redox reactions in water and also does reaction balancing for redox reactions in water
+
+
 ![image](https://github.com/user-attachments/assets/aa44d4db-45da-49d1-983d-8912fa084e6d)
 ![image](https://github.com/user-attachments/assets/9732879a-9ead-4e33-954b-ac5aaf6d3327)
+
+
 
 # Installation Instructions
 To install and run this project, follow these steps:
