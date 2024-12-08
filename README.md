@@ -26,3 +26,15 @@ python3 -m venv venv
 ```
 pip install PyQt6
 ```
+# Usage
+To run the program, use the following command:
+```
+python UI.py
+```
+# Examples
+![image](https://github.com/user-attachments/assets/87da70fb-2ad9-429e-be81-4fcf4a7797f9)
+![image](https://github.com/user-attachments/assets/353ac7a9-b920-4274-a17b-7bcf8f9d970d)
+
+
+
+
