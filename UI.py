@@ -8,10 +8,10 @@ import sys
 import os
 from Potentials.Potentials import Nernst, Equations
 
-file_1 = os.path.join(os.getcwd(), 'pH=0.txt')
-file_2 = os.path.join(os.getcwd(), 'pH=14')
-f_1 = open(file_1, 'r')
-f_2 = open(file_2, 'r')
+#file_1 = os.path.join(os.getcwd(), 'pH=0.txt')
+#file_2 = os.path.join(os.getcwd(), 'pH=14')
+f_1 = open("pH=0.txt")
+f_2 = open("pH=14.txt")
 A0 = []
 B0 = []
 for line in f_1:
