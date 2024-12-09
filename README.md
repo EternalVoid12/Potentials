@@ -17,7 +17,7 @@ git clone https://github.com/EternalVoid12/Potentials.git
 ```
 2. Navigate into the project directory:
 ```
-cd ...\Potentials
+cd Potentials
 ```
 3. Create a virtual environment (if not already created by the user):
 
